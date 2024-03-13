@@ -8,7 +8,7 @@ const navLinks = [
   {href: '/project', name: 'home'},
   {href: '/project/about', name: 'about'},
   {href: '/project/contact', name: 'contact'},
-  {href: '/project/blog', name: 'blog'},
+  {href: '/project/detail', name: 'detail'},
 ]
  
 export default function navigation() {
